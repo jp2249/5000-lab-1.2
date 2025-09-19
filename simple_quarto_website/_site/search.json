@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "\nMy Prediction of the Rams 2025 Season\n",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt \n\nx = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]\ny = [1,2,2,3,4,4,4,4,5,6,7,8,9,10,10,11,12,13]\n\nplt.plot(x,y)\nplt.xlabel(\"NFL Week (2025 Season)\")\nplt.ylabel(\"Total Wins\")\nplt.title(\"Expected Wins of the Los Angeles Rams\")\n\nplt.show()\n\n\n\n\n\n\n\n\n\nMy Prediction of the Rams 2025 Season\n\n\nI think they can win the Super Bowl this season but they have to stay healthy\n\n\nI think the London game will be a loss, but they seem to have a decent schedule to end the season"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab 3: How I’m Processing HW1",
+    "section": "",
+    "text": "So that assignment sucked right?"
+  },
+  {
+    "objectID": "index.html#twin-columns",
+    "href": "index.html#twin-columns",
+    "title": "Lab 3: How I’m Processing HW1",
+    "section": "Twin Columns",
+    "text": "Twin Columns\n\n\n\nWhat I did right\nI was able to get all of the processes going, and I was able to get all the images to load\n\nI think I\nMay get\nAbove a 60\n\n\n\n\nHow I Screwed Up\nI accidentally set a commit message to “This f***ing sucks” and ran a seccond commit saying “PLEASE FORGIVE MY LANGUAGE”\n\nNever Mind\n\nDr. Hickman\nIs gonna kill me on Monday\n\n\n\n\n\n\nLaTeX Equations\nSo the inline equation is something like \\(Y = mX+b\\) while the non-inline is like:\n\\[\nE = mc^2\n\\]\n\n\n\nOh\nMy\nGod\n\n\n\n\nIf\nThe\nNext\n\n\nHW\nIs\nWorse\n\n\nI’m\nDone\nFor\n\n\n\nI’m a bit stressed, but I hope whoever was grading this was likeminded when they did their HW11\n\n\nCode\nflowchart TD\n    A[What] --&gt;B{Am I Doing}\n    B -- The Right Thing --&gt; C[Phew!]\n    B -- The Wrong Thing --&gt; D[Wallahi I'm Cooked]\n\n\n\n\n\nflowchart TD\n    A[What] --&gt;B{Am I Doing}\n    B -- The Right Thing --&gt; C[Phew!]\n    B -- The Wrong Thing --&gt; D[Wallahi I'm Cooked]\n\n\n\n\n\n\n\n\n\nPlease Work\n\n\n\n\n\nOh Thank God\n\n\n\n\nTrevor Draisey believed that NFL Statistics could be predicted (Draisey 2016)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Lab 3: How I’m Processing HW1",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nNot really but it would be nice to know if it gets easier/worse!↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "Self-Depricating Slideshow",
+    "section": "Slide 1",
+    "text": "Slide 1\nPlease Work\n\nAttempt 1"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "Self-Depricating Slideshow",
+    "section": "Slide 2",
+    "text": "Slide 2\nIf this doesn’t\n\n\nCode\nimport matplotlib.pyplot as plt \n\nx = [1,2,3,4]\ny = [10,9,6.7,2.1]\n\nplt.plot(x,y)\nplt.xlabel(\"Week of the Semester\")\nplt.ylabel(\"Current Mental Health (1-10 scale)\")\nplt.title(\"Jeff's Mental Health So Far in the Semester\")\n\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "Self-Depricating Slideshow",
+    "section": "Slide 3",
+    "text": "Slide 3\nI’m Cooked\n\nPlease WorkIn 2008, Hosmer used applied logistic regression to sample 1000 burn victims to determine a hospital’s mortality rate [@hosmer2013applied]"
+  }
+]

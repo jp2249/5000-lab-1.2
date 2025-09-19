@@ -1,0 +1,31 @@
+project:
+  type: website
+
+
+website:
+  title: "simple_quarto_website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.ipynb
+        text: About
+      - href: slides/slides.qmd
+        text: Presentation
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    toc: true
+
+
+execute: 
+  enabled: true
+  echo: true
+  code-fold: true
+
+jupyter: python3
+

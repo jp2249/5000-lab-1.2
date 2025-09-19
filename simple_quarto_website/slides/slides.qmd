@@ -1,0 +1,37 @@
+---
+title: "Self-Depricating Slideshow"
+author: "Jeffrey Pinarchick"
+format: 
+    revealjs:
+        code-fold: true
+---
+
+
+
+## Slide 1
+Please Work
+
+![Attempt 1](images/download.png)
+
+
+## Slide 2
+If this doesn't
+```{python}
+import matplotlib.pyplot as plt 
+
+x = [1,2,3,4]
+y = [10,9,6.7,2.1]
+
+plt.plot(x,y)
+plt.xlabel("Week of the Semester")
+plt.ylabel("Current Mental Health (1-10 scale)")
+plt.title("Jeff's Mental Health So Far in the Semester")
+
+plt.show()
+```
+## Slide 3
+I'm Cooked
+
+![Please Work](images/9jetr1.png)
+
+In 2008, Hosmer used applied logistic regression to sample 1000 burn victims to determine a hospital's mortality rate [@hosmer2013applied]

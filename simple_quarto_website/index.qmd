@@ -1,0 +1,82 @@
+---
+title: "Lab 3: How I'm Processing HW1"
+bibliography: reference.bib
+---
+<head>
+<h1> So that assignment sucked right?</h1>
+
+<h2>I mean, I get I'm not the best at Python but come on</h2>
+
+
+<h3>We really needed to: </h3>
+</head>
+
+<body>
+<ul>
+    <li> Create a website </li>
+    <li> Create all of the processes for said website </li>
+    <li> And a bunch of other stuff I'm forgetting because it's 7:22 on a Wednesday and I just turned it in</li>
+    <li>Also for some reason I felt like I needed to use html for this :3
+</ul>
+
+> "How the hell did I even get into this program" - Jeffrey Pinarchick, 7:15PM
+
+## Twin Columns
+
+::: {.columns}
+::: {.column width="50%"}
+### What I did right
+
+I was able to get all of the processes going, and I was able to get all the images to load
+
+- I think I 
+- May get 
+- Above a 60 
+
+:::
+::: {.column width="50%"}
+### How I Screwed Up
+
+I accidentally set a commit message to "This f***ing sucks" and ran a seccond commit saying "PLEASE FORGIVE MY LANGUAGE"
+
+1. Never Mind  
+2. Dr. Hickman 
+3. Is gonna kill me on Monday  
+:::
+:::
+
+### LaTeX Equations
+
+So the inline equation is something like $Y = mX+b$ while the non-inline is like:
+
+$$
+E = mc^2
+$$
+
+| Oh    | My    |   God|
+|-------|-------|------|
+| If    | The   |  Next|
+| HW    |  Is   | Worse|
+| I'm   | Done  | For  |
+
+
+I'm a bit stressed, but I hope whoever was grading this was likeminded when they did their HW1[^1]
+
+[^1]: Not really but it would be nice to know if it gets easier/worse!
+
+```{mermaid}
+flowchart TD
+    A[What] -->B{Am I Doing}
+    B -- The Right Thing --> C[Phew!]
+    B -- The Wrong Thing --> D[Wallahi I'm Cooked]
+```
+
+
+
+![Please Work](https://m.media-amazon.com/images/I/71Z0rLIvpuL._UF1000,1000_QL80_.jpg)
+
+![Oh Thank God](https://static01.nyt.com/athletic/uploads/wp/2025/01/16163900/AP25014100426963-scaled.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OG58zdQvW5s?si=YR6MKme5yA3zrQNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Trevor Draisey believed that NFL Statistics could be predicted [@draisey2016determinants]
